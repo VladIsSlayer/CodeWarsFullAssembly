@@ -34,3 +34,18 @@
 ---
 
 ## 📁 Структура проекта
+
+---
+
+## 🚀 Быстрый старт
+
+### 1. Клонировать проект
+
+```bash
+git clone https://github.com/VladIsSlayer/CodeWarsFullAssembly.git
+cd CodeWarsFullAssembly
+
+mkdir build && cd build
+cmake ..
+cmake --build .
+ctest
